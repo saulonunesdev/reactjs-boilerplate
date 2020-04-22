@@ -17,9 +17,6 @@ npm run wbundle #Generate WebPack Bundle
 ```
 
 [license-image]: https://img.shields.io/github/license/SauloNunes/reactjs-boilerplate
-
 [license-url]: https://github.com/SauloNunes/reactjs-boilerplate/blob/master/LICENSE
-
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg
-
 [standard-url]: https://github.com/standard/standard
