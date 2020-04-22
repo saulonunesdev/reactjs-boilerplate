@@ -16,10 +16,6 @@ npm run autofix #Fix Everything (Remark Not Working 100%)
 npm run wbundle #Generate WebPack Bundle
 ```
 
-## Wiki
-
-_To be Created_
-
 [license-image]: https://img.shields.io/github/license/SauloNunes/reactjs-boilerplate
 
 [license-url]: https://github.com/SauloNunes/reactjs-boilerplate/blob/master/LICENSE
