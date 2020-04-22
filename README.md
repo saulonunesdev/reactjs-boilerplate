@@ -1,4 +1,4 @@
-# React JS BoilerPlate - Test
+# React JS BoilerPlate
 
 > A React JS BoilerPlate With Code Linter Validation Check the Dependencies [List](md/dependencies.md).
 
