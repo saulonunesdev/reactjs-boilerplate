@@ -1,6 +1,6 @@
 # React JS BoilerPlate
 
-> A React JS BoilerPlate With Code Linter Validation Check the Dependencies [List](md/dependencies.md)
+> A React JS BoilerPlate With Code Linter Validation Check the Dependencies [List](md/dependencies.md).
 
 [![License][license-image]][license-url]
 [![js-standard-style][standard-image]][standard-url]
