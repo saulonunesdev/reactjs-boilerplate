@@ -4,6 +4,7 @@
 
 [![License][license-image]][license-url]
 [![js-standard-style][standard-image]][standard-url]
+[![Coverage Status](https://coveralls.io/repos/github/SauloNunes/reactjs-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/SauloNunes/reactjs-boilerplate?branch=master)
 
 ## Commands
 
